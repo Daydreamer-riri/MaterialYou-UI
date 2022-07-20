@@ -1,0 +1,1 @@
+const e={key:"v-22df2e84",path:"/guide/docs/elevation.html",title:"Elevation \u6D77\u62D4",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u4F7F\u7528",slug:"\u4F7F\u7528",children:[]}],git:{updatedTime:1651933396e3,contributors:[{name:"riri",email:"daydreamerriri@outlook.com",commits:1}]},filePathRelative:"guide/docs/elevation.md"};export{e as data};

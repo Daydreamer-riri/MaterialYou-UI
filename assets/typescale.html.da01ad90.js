@@ -1,0 +1,1 @@
+const e={key:"v-547e6e71",path:"/guide/docs/typescale.html",title:"Typography \u5B57\u4F53",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651933396e3,contributors:[{name:"riri",email:"daydreamerriri@outlook.com",commits:1}]},filePathRelative:"guide/docs/typescale.md"};export{e as data};
