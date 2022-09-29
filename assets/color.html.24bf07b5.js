@@ -1,0 +1,1 @@
+const e={key:"v-713c153e",path:"/guide/docs/color.html",title:"Color \u8272\u5F69",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651933396e3,contributors:[{name:"riri",email:"daydreamerriri@outlook.com",commits:1}]},filePathRelative:"guide/docs/color.md"};export{e as data};
